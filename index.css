@@ -1,0 +1,28 @@
+.container {
+  min-height: 100vh;
+  width: 11.3 inch;
+}
+header {
+  padding: 30px;
+  background-image: linear-gradient(to right, #263c76, #2668c8);
+  color: #fefdfe;
+}
+.main {
+  column-count: 2;
+  padding: 50px;
+}
+.first_img {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 10px;
+  border: #b8b7b7 10px solid;
+  border-radius: 100rem;
+}
+.second_img {
+  border: #b8b7b7 10px solid;
+}
+footer {
+  background-image: linear-gradient(to right, #263c76, #2668c8);
+  height: 50px;
+}
